@@ -1,0 +1,1 @@
+This project creates the rock, paper, scissors game within a web browser using HTML and Javascript.
